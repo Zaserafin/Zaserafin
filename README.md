@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zaserafin/] (https://github.com/Zaserafin/)
+- 👨‍💻 All of my projects are available at https://github.com/Zaserafin/
 
 - 💬 Ask me about **react, vue, angular, or anything you want**
 
