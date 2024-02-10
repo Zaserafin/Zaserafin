@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, vue, angular, or anything you want**
 
-- 📫 How to reach me **contacto@zaserafin.com**
+- 📫 How to reach me **zaserafin@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
